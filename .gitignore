@@ -1,6 +1,7 @@
-./Include
-./Lib
-./Scripts
-
-*.json
+*.jpeg
 *.exe
+*.json
+
+!/Lib
+!/Include
+!/Scripts
