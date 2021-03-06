@@ -1,0 +1,19 @@
+[
+    {
+        "id": "HUFB06141000",
+        "name": "Molnár Dzsesszika",
+        "email": "mdzsesszika@citromail.hu",
+        "password": "praedatorMD14",
+        "friends": 0,
+        "hooks": 0
+    },
+
+    {
+        "id": "ROIG06131001",
+        "name": "Placeholder Name",
+        "email": "Placeholder@email.ro",
+        "password": "placeholderpw",
+        "friends": 0,
+        "hooks": 0
+    }
+]
