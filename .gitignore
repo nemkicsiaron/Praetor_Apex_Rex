@@ -2,6 +2,6 @@
 *.exe
 *.json
 
-./Lib
-./Include
-./Scripts
+/Lib
+/Include
+/Scripts
